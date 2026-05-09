@@ -1,0 +1,4 @@
+repository "GameClubTGS/GameClubTGS 2025-08-09_14-28-05@15668418457365@cloud"
+  path "/"
+    br "/main"
+    co "/main"

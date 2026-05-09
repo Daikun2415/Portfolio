@@ -1,0 +1,16 @@
+NotoSansJP-Black[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+BestTen-CRT[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+*SDT.asset filter=lfs diff=lfs merge=lfs -text
+BestTen-DOT[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+LiberationSans[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+NotoSansJP-Black[[:space:]]SDF[[:space:]]1.asset filter=lfs diff=lfs merge=lfs -text
+NotoSerifJP-Bold[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+NotoSerifJP-Bold.ttf filter=lfs diff=lfs merge=lfs -text
+NotoSerifJP-ExtraBold[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+NotoSerifJP-ExtraBold.ttf filter=lfs diff=lfs merge=lfs -text
+PixelMplus10-Bold[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+PixelMplus10-Bold.ttf filter=lfs diff=lfs merge=lfs -text
+PixelMplus12-Bold[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+PixelMplus12-Bold.ttf filter=lfs diff=lfs merge=lfs -text
+TanukiMagic[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+TanukiMagic.ttf filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/User_Yui/TitleScene.unity
+    guid: f0ca71ddf6ad7d8459146b5699cb2ac8
+  - enabled: 0
+    path: Assets/User_Sho/ShoScene.unity
+    guid: 3ab00d06f714a8146adb8355607f799c
+  - enabled: 0
+    path: Assets/User_Yui/YuiCreate.unity
+    guid: 24ffac0203506444699b2b58d17869d8
+  - enabled: 1
+    path: Assets/Scenes/Main_Tittle.unity
+    guid: d95689d9a37012846a770077acbcdef6
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Main_Result.unity
+    guid: a7d43964d67e1494cb5cfd34901beb94
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
