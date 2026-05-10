@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: eccec2979aa07a44ead59951ae9c7148
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7281635686240608202
+    second: SoundShaffle logo_0
+  - first:
+      213: 2523636920442941173
+    second: SoundShaffle logo_1
+  - first:
+      213: 1511963903876433427
+    second: SoundShaffle logo_2
+  - first:
+      213: 2423445358169619709
+    second: SoundShaffle logo_3
+  - first:
+      213: -2366946627346316915
+    second: SoundShaffle logo_4
+  - first:
+      213: 164672777919983917
+    second: SoundShaffle logo_5
+  - first:
+      213: -662470458202126029
+    second: SoundShaffle logo_6
+  - first:
+      213: 7742096684526060161
+    second: SoundShaffle logo_7
+  - first:
+      213: -1852315677638841082
+    second: SoundShaffle logo_8
+  - first:
+      213: 383839959853696338
+    second: SoundShaffle logo_9
+  - first:
+      213: -7500304045855603669
+    second: SoundShaffle logo_10
+  - first:
+      213: -5907793310480319583
+    second: SoundShaffle logo_11
+  - first:
+      213: 2928469565116861310
+    second: SoundShaffle logo_12
+  - first:
+      213: 1070647392480402053
+    second: SoundShaffle logo_13
+  - first:
+      213: 178801599086169719
+    second: SoundShaffle logo_14
+  - first:
+      213: -8488842148994205020
+    second: SoundShaffle logo_15
+  - first:
+      213: -8714145760139905045
+    second: SoundShaffle logo_16
+  - first:
+      213: -4334414366969015372
+    second: SoundShaffle logo_17
+  - first:
+      213: -2769125041995821134
+    second: SoundShaffle logo_18
+  - first:
+      213: 1413250725989114123
+    second: SoundShaffle logo_19
+  - first:
+      213: 4259330887212478149
+    second: SoundShaffle logo_20
+  - first:
+      213: 1734800409077551137
+    second: SoundShaffle logo_21
+  - first:
+      213: -4806872667504824361
+    second: SoundShaffle logo_22
+  - first:
+      213: -5500418745709143003
+    second: SoundShaffle logo_23
+  - first:
+      213: 2647607832096509877
+    second: SoundShaffle logo_24
+  - first:
+      213: 2195897634608472019
+    second: SoundShaffle logo_25
+  - first:
+      213: -8625268731874543059
+    second: SoundShaffle logo_26
+  - first:
+      213: 1361340496494929262
+    second: SoundShaffle logo_27
+  - first:
+      213: 2236159476815452204
+    second: SoundShaffle logo_28
+  - first:
+      213: 397230346321099380
+    second: SoundShaffle logo_29
+  - first:
+      213: -3624498229258550011
+    second: SoundShaffle logo_30
+  - first:
+      213: -2970003122061919251
+    second: SoundShaffle logo_31
+  - first:
+      213: -8346704476190129880
+    second: SoundShaffle logo_32
+  - first:
+      213: 117214133946091144
+    second: SoundShaffle logo_33
+  - first:
+      213: -4167270198471852743
+    second: SoundShaffle logo_34
+  - first:
+      213: -1503089462114566888
+    second: SoundShaffle logo_35
+  - first:
+      213: 7101758878177253689
+    second: SoundShaffle logo_36
+  - first:
+      213: -5407171336608467931
+    second: SoundShaffle logo_37
+  - first:
+      213: -8285830852580930147
+    second: SoundShaffle logo_38
+  - first:
+      213: 4764441956389733214
+    second: SoundShaffle logo_39
+  - first:
+      213: 5318213885510097829
+    second: SoundShaffle logo_40
+  - first:
+      213: -5811995290540962302
+    second: SoundShaffle logo_41
+  - first:
+      213: 4324501983988860732
+    second: SoundShaffle logo_42
+  - first:
+      213: 2956610537126981116
+    second: SoundShaffle logo_43
+  - first:
+      213: 9014054599287397557
+    second: SoundShaffle logo_44
+  - first:
+      213: -7693974876395910071
+    second: SoundShaffle logo_45
+  - first:
+      213: -8357828119082893894
+    second: SoundShaffle logo_46
+  - first:
+      213: -2015409320771070381
+    second: SoundShaffle logo_47
+  - first:
+      213: -5865812515359408169
+    second: SoundShaffle logo_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SoundShaffle logo_0
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 537
+        width: 35
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63022d15cee62fa90800000000000000
+      internalID: -7281635686240608202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 550
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feef098862c50320800000000000000
+      internalID: 2523636920442941173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 613
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31684cbe8239bf410800000000000000
+      internalID: 1511963903876433427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 608
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcf44a96bec1a120800000000000000
+      internalID: 2423445358169619709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 616
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81c6b2459ae62fd0800000000000000
+      internalID: -2366946627346316915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 602
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21f810e409094200800000000000000
+      internalID: 164672777919983917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 603
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3390ca0d0ae6ec6f0800000000000000
+      internalID: -662470458202126029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 596
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182c7e94ae3717b60800000000000000
+      internalID: 7742096684526060161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 567
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d237684b04b46e0800000000000000
+      internalID: -1852315677638841082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 570
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2550ea9e86ca35500800000000000000
+      internalID: 383839959853696338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 422
+        width: 270
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b240a57653199e790800000000000000
+      internalID: -7500304045855603669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_11
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 599
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab3462f84d430ea0800000000000000
+      internalID: -5907793310480319583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_12
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 505
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b4554cd8304a820800000000000000
+      internalID: 2928469565116861310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_13
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 596
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a1e748124bbde00800000000000000
+      internalID: 1070647392480402053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_14
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 589
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e8dc66b1b3b7200800000000000000
+      internalID: 178801599086169719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_15
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 570
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa36d29a03913a80800000000000000
+      internalID: -8488842148994205020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_16
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 565
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be772e5c992211780800000000000000
+      internalID: -8714145760139905045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_17
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 589
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b35673191119d3c0800000000000000
+      internalID: -4334414366969015372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 403
+        width: 116
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf433d12771299d0800000000000000
+      internalID: -2769125041995821134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_19
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 524
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01e42d2c00ec9310800000000000000
+      internalID: 1413250725989114123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_20
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 516
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce262100ee2c1b30800000000000000
+      internalID: 4259330887212478149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_21
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 258
+        width: 648
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120154bd7cf331810800000000000000
+      internalID: 1734800409077551137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_22
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 558
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df27dcd6ce8a4db0800000000000000
+      internalID: -4806872667504824361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_23
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 530
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c5b121b469aa3b0800000000000000
+      internalID: -5500418745709143003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 187
+        width: 312
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf87a0bb413eb420800000000000000
+      internalID: 2647607832096509877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 376
+        width: 110
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df55f9a345697e10800000000000000
+      internalID: 2195897634608472019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_26
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 502
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a755879c3ec4880800000000000000
+      internalID: -8625268731874543059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_27
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 492
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e652fe708f374e210800000000000000
+      internalID: 1361340496494929262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_28
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 484
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2855bc423f680f10800000000000000
+      internalID: 2236159476815452204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_29
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 498
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a797635ee338500800000000000000
+      internalID: 397230346321099380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_30
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 207
+        width: 177
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505030c501233bdc0800000000000000
+      internalID: -3624498229258550011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_31
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 447
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debb2bf65ed68c6d0800000000000000
+      internalID: -2970003122061919251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_32
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 412
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821468b608c8a2c80800000000000000
+      internalID: -8346704476190129880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_33
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 391
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886038042ad60a100800000000000000
+      internalID: 117214133946091144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_34
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 409
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d730965d1ea26c0800000000000000
+      internalID: -4167270198471852743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 378
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d37011914f32be0800000000000000
+      internalID: -1503089462114566888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_36
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 373
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9395b3ea2148e8260800000000000000
+      internalID: 7101758878177253689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 339
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52437c9515ed5f4b0800000000000000
+      internalID: -5407171336608467931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 297
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d01f26db0d20d80800000000000000
+      internalID: -8285830852580930147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_39
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 215
+        width: 233
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53c39b57b2be1240800000000000000
+      internalID: 4764441956389733214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_40
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 165
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab116d0a571ec940800000000000000
+      internalID: 5318213885510097829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_41
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 204
+        width: 172
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e00179315a75fa0800000000000000
+      internalID: -5811995290540962302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_42
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 204
+        width: 139
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37c02a64a7b30c30800000000000000
+      internalID: 4324501983988860732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_43
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 204
+        width: 204
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd61a46e9df70920800000000000000
+      internalID: 2956610537126981116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_44
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 204
+        width: 117
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc508846ea581d70800000000000000
+      internalID: 9014054599287397557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 178
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c44a54d92893590800000000000000
+      internalID: -7693974876395910071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_46
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 170
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdfa4c7b97030c80800000000000000
+      internalID: -8357828119082893894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_47
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 162
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356dd6e96e3d704e0800000000000000
+      internalID: -2015409320771070381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundShaffle logo_48
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df36fe7892789ea0800000000000000
+      internalID: -5865812515359408169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SoundShaffle logo_0: -7281635686240608202
+      SoundShaffle logo_1: 2523636920442941173
+      SoundShaffle logo_10: -7500304045855603669
+      SoundShaffle logo_11: -5907793310480319583
+      SoundShaffle logo_12: 2928469565116861310
+      SoundShaffle logo_13: 1070647392480402053
+      SoundShaffle logo_14: 178801599086169719
+      SoundShaffle logo_15: -8488842148994205020
+      SoundShaffle logo_16: -8714145760139905045
+      SoundShaffle logo_17: -4334414366969015372
+      SoundShaffle logo_18: -2769125041995821134
+      SoundShaffle logo_19: 1413250725989114123
+      SoundShaffle logo_2: 1511963903876433427
+      SoundShaffle logo_20: 4259330887212478149
+      SoundShaffle logo_21: 1734800409077551137
+      SoundShaffle logo_22: -4806872667504824361
+      SoundShaffle logo_23: -5500418745709143003
+      SoundShaffle logo_24: 2647607832096509877
+      SoundShaffle logo_25: 2195897634608472019
+      SoundShaffle logo_26: -8625268731874543059
+      SoundShaffle logo_27: 1361340496494929262
+      SoundShaffle logo_28: 2236159476815452204
+      SoundShaffle logo_29: 397230346321099380
+      SoundShaffle logo_3: 2423445358169619709
+      SoundShaffle logo_30: -3624498229258550011
+      SoundShaffle logo_31: -2970003122061919251
+      SoundShaffle logo_32: -8346704476190129880
+      SoundShaffle logo_33: 117214133946091144
+      SoundShaffle logo_34: -4167270198471852743
+      SoundShaffle logo_35: -1503089462114566888
+      SoundShaffle logo_36: 7101758878177253689
+      SoundShaffle logo_37: -5407171336608467931
+      SoundShaffle logo_38: -8285830852580930147
+      SoundShaffle logo_39: 4764441956389733214
+      SoundShaffle logo_4: -2366946627346316915
+      SoundShaffle logo_40: 5318213885510097829
+      SoundShaffle logo_41: -5811995290540962302
+      SoundShaffle logo_42: 4324501983988860732
+      SoundShaffle logo_43: 2956610537126981116
+      SoundShaffle logo_44: 9014054599287397557
+      SoundShaffle logo_45: -7693974876395910071
+      SoundShaffle logo_46: -8357828119082893894
+      SoundShaffle logo_47: -2015409320771070381
+      SoundShaffle logo_48: -5865812515359408169
+      SoundShaffle logo_5: 164672777919983917
+      SoundShaffle logo_6: -662470458202126029
+      SoundShaffle logo_7: 7742096684526060161
+      SoundShaffle logo_8: -1852315677638841082
+      SoundShaffle logo_9: 383839959853696338
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
